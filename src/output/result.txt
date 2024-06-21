@@ -1,0 +1,3 @@
+Bob's input max is 45
+Alice's input max is 51
+The max is correct and it is 51.

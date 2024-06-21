@@ -1,0 +1,28 @@
+Alice encrypted inputs are:
+Wire 1: Key: b'1m4qKsuNkrYUOUdJoFsR-wPEh-hnpvXAl29wewd8KPg=', Encrypted Bit: 0
+Wire 2: Key: b'yMTmlJvJFVi2xFtT7IGC6YbqTW00ojUJysJpytseFxg=', Encrypted Bit: 1
+Wire 3: Key: b'8K-epm7-hU8er-QoME3hnT-yNHkFV15yCDlog39iN64=', Encrypted Bit: 1
+Wire 4: Key: b'UW3QpZ4TGv5ziupzDtgicwEQTQSOH2iDv1Krhavim6o=', Encrypted Bit: 1
+Wire 5: Key: b'Kox28lvstJbgYNr8E-jhHmc_aWVY6c5ZdMYJXgYeKFY=', Encrypted Bit: 0
+Wire 6: Key: b'5HfC_ZJZvOGwnSL-GeNXCko7jFm3oUks5uA8231O7nk=', Encrypted Bit: 1
+
+
+Alice keys to Bob are: 
+Wire 7: (Key: b'XAUVXya-gINh9KPA1fsSzbrtw5RhPH86TjEIQOEbTVI=', Encrypted bit: 0), 
+		(Key: b'DMEOf6WLX7azrpvRI8fsafWZf87zW94bXj0nXr4SrdQ=', Encrypted bit: 1)
+
+Wire 8: (Key: b'_JAlAA2acdMnRND0QMlAbemhqlwBbJjJby-fha9cNdI=', Encrypted bit: 1), 
+		(Key: b'yrL1j-uLmfrMxRUGz0dZjXtDi-a1HQlwV0Bddtd1rn8=', Encrypted bit: 0)
+
+Wire 9: (Key: b'Ul0yYNCbq4Xwt6PLqDSGwpV5dvQq_-Wk8QvAHWfmbSU=', Encrypted bit: 0), 
+		(Key: b'hEPDZOs2w4Y3QVzjggzltv1atlY6TYGzz677dCCK7d8=', Encrypted bit: 1)
+
+Wire 10: (Key: b'q_vMc70JKrMlxzJialF3_zmMM-a1Jb9X_e8NSDPBGYA=', Encrypted bit: 1), 
+		(Key: b'3uB4cy9rlrhDMEYNq26G1k4mSslL-B2Im97e7A6XX1I=', Encrypted bit: 0)
+
+Wire 11: (Key: b'DOTTcSeyhPuMyIiQ529EbXNrbLQc11UYYqbcUx8rW1E=', Encrypted bit: 1), 
+		(Key: b'8YPz34W_loZw9O9GS3MF4SmDnlNpik2yFw9D_BaWcq4=', Encrypted bit: 0)
+
+Wire 12: (Key: b'fk-Om3Oqj2nssQAom4RZqljvfgfQIp2ocU0Usd47ofM=', Encrypted bit: 0), 
+		(Key: b'wR498FlogXG_U4OPakS-OzttOl9GS3QB-P_36cypEiA=', Encrypted bit: 1)
+
