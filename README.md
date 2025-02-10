@@ -1,6 +1,5 @@
-This project covers an example of Secure Multi-Party Computation (MPC) according to Yao’s protocol. This protocol allows two parties (Alice and Bob) with private inputs
-to compute a joint function of their inputs while ensuring that nothing but the output is learned. For example if Alice knows x and Bob knows y, they should only learn the
-result of f(x,y). MPC is based on the following ideas:
+This project covers an example of Secure Multi-Party Computation (MPC) according to Yao’s protocol and it's part of the course "Introduction to Cybersecurity" held at the
+Alpen-Adria-Universität of Klagenfurt. This protocol allows two parties (Alice and Bob) with private inputs to compute a joint function of their inputs while ensuring that nothing but the output is learned. For example if Alice knows x and Bob knows y, they should only learn the result of f(x,y). MPC is based on the following ideas:
 
 - Privacy: ensuring that nothing but the output is learned;
 - Correctness: ensuring that the output is correctly computed.
